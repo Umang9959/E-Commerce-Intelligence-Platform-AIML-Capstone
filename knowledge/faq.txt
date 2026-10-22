@@ -1,0 +1,18 @@
+Q: How do I return a product?
+A: This classroom demo uses a static FAQ. In a real store, customers should check the official return policy and contact support with their order number.
+
+Q: Can I cancel an order?
+A: This demo cannot cancel live orders. It can only retrieve static support guidance. A real store would require the customer to use the official account or support channel.
+
+Q: Where is my order?
+A: This project does not connect to live delivery systems. For the capstone demo, explain that shipment tracking would require a real order-management integration.
+
+Q: How do I find similar products?
+A: Use the recommendation screen. It finds products commonly purchased together in historical transactions.
+
+Q: How does product search work?
+A: The search screen compares the user query with product descriptions using TF-IDF and cosine similarity.
+
+Q: Is the churn prediction final business advice?
+A: No. It is a case-study model that estimates risk from historical purchase behavior and should be validated before any real business use.
+
